@@ -1,5 +1,9 @@
 # Seq2Seq Chatbot
 
+This is a slightly modified fork of the the Tensorlayer Seq2Seq-Chatbot found here: https://github.com/tensorlayer/seq2seq-chatbot
+
+
+
 This is a 200 lines implementation of Twitter/Cornell-Movie Chatbot, please read the following references before you read the code:
 
 - [Practical-Seq2Seq](http://suriyadeepan.github.io/2016-12-31-practical-seq2seq/)
