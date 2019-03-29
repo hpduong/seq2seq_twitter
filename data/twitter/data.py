@@ -3,6 +3,7 @@ EN_BLACKLIST = '!"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~\''
 
 FILENAME = '/home/anon/projects/seq2seq-chatbot/data/twitter/mileycyrus.txt'
 
+
 limit = {
         'maxq' : 20,
         'minq' : 0,
